@@ -13,20 +13,19 @@ stacks:
         stemcell:
           version: 27.7-7.0.0_374.gb8e8e6af
       sle15:
-        version: "10.93"
-        url: docker.io/cfcontainerization
+        version: "24.72"
       suse-staticfile-buildpack:
         version: "1.5.12.1"
       suse-java-buildpack:
         version: "4.32.1.1"
       suse-ruby-buildpack:
-        version: "1.8.25.1"
+        version: "1.8.26.1"
       suse-dotnet-core-buildpack:
         version: "2.3.16.1"
       suse-nodejs-buildpack:
-        version: "1.7.30.1"
+        version: "1.7.31.1"
       suse-go-buildpack:
-        version: "1.9.19.1"
+        version: "1.9.20.1"
       suse-python-buildpack:
         version: "1.7.23.1"
       suse-php-buildpack:
